@@ -16,5 +16,5 @@ go build
 3. Run Project
 
 ```shell
-./remote-volume-control -addr 0.0.0.0:8080 -user 你设置的用户名 -pass 你设置的强密码
+./linux-emote-volume-control -addr 0.0.0.0:8080 -user 你设置的用户名 -pass 你设置的强密码
 ```
